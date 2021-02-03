@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Advanzity/Astolfosense/main/astolfosense.lua", true))()
